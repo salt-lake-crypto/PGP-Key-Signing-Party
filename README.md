@@ -1,9 +1,10 @@
-~~PGP-Key-Signing-Party~~ Cryptoparty
+Cryptoparty
 =====================
 
 Our first meetup! Let's have a [cryptoparty](https://cryptoparty.in)!
 
 **Date:** October 11th, 2014
+
 **Location:** [801 Labs](https://www.dc801.org/?page_id=21)
 
 440 S 700 E
