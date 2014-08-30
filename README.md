@@ -13,7 +13,7 @@ Salt Lake City, UT 84102
 
 **Talks:**
 
-[PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy): *Speaker tba*
+Intro to [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) by [Jessie Morris](https://twitter.com/jessieamorris)
 
 [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging): *Speaker tba*
 
